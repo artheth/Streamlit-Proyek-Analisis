@@ -1,0 +1,9 @@
+﻿,order_status,count_city_order
+0,delivered,96478
+1,shipped,1107
+2,canceled,625
+3,unavailable,609
+4,invoiced,314
+5,processing,301
+6,created,5
+7,approved,2
